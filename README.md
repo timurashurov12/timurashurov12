@@ -13,10 +13,10 @@
 
 ## 🚀 Технологии и инструменты
 
-**Backend:** PHP, Laravel, Composer, Redis, REST API
-**Frontend:** React, Next.js, TypeScript, TailwindCSS, Bootstrap
-**Databases:** MySQL, PostgreSQL, MongoDB
-**Инструменты:** Docker, Git, CI/CD, Linux, Nginx
+* **Backend:** PHP, Laravel, Composer, Redis, REST API
+* **Frontend:** React, Next.js, TypeScript, TailwindCSS, Bootstrap
+* **Databases:** MySQL, PostgreSQL, MongoDB
+* **Инструменты:** Docker, Git, CI/CD, Linux, Nginx
 
 ## 📂 Некоторые мои проекты
 
