@@ -1,16 +1,24 @@
-## Hi there 👋
+# Привет! Я Тимур 👋
 
-<!--
-**timurashurov12/timurashurov12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать в мой GitHub профиль! Я — full‑stack разработчик, специализирующийся на backend и frontend разработке. В работе использую современные подходы, лучшие практики и чистый, поддерживаемый код.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Разрабатываю проекты на **Laravel 11**, придерживаясь best practices фреймворка
+* Пишу backend на **PHP** (ОOP, SOLID, архитектурные паттерны)
+* Создаю современный frontend на **React**
+* Владею версткой с использованием **TailwindCSS**, **Bootstrap**, адаптивной и семантической HTML/CSS
+* Опыт работы с базами данных: **MySQL**, **PostgreSQL**, **MongoDB**
+* Занимаюсь интеграцией API, оптимизацией производительности, построением архитектуры
+
+## 🚀 Технологии и инструменты
+
+**Backend:** PHP, Laravel, Composer, Redis, REST API
+**Frontend:** React, Next.js, TypeScript, TailwindCSS, Bootstrap
+**Databases:** MySQL, PostgreSQL, MongoDB
+**Инструменты:** Docker, Git, CI/CD, Linux, Nginx
+
+## 📂 Некоторые мои проекты
+
+* ✈️ **Minzifa Travel Platform** — система бронирования, интеграции c AmoCRM, сложная бизнес‑логика
+* ⚙️ **API‑интеграции** — построение устойчивых и безопасных API модулей
